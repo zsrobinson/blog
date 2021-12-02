@@ -1,6 +1,6 @@
 # Blog
 
-A simple website for blogs about projects I am working on, as well as other content.
+A blog about projects I am working on, as well as other content.
 
 Created using [Hugo](https://gohugo.io/) with the [PaperMod](https://git.io/hugopapermod) theme.
 
