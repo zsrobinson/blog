@@ -1,0 +1,67 @@
+baseURL: https://zsrobinson.com/
+languageCode: en-us
+title: Zachary Robinson
+theme: "PaperMod"
+
+params:
+    env: production
+
+    profileMode:
+        enabled: true
+        title: "Zachary Robinson" # optional default will be site title
+        subtitle: "A home for blogs about projects I am working on, as well as other content."
+        imageUrl: "https://www.gravatar.com/avatar/5d85f5b7cfe974125f9f0bf105cf4048?s=150"
+        imageTitle: "Profile Picture"
+        imageWidth: 150
+        imageHeight: 150
+        buttons:
+            - name: View Blog Posts
+              url: "/posts"
+
+    homeInfoParams:
+        Title: Welcome to my website
+        Content: A home for my projects
+
+    socialIcons:
+        - name: "github"
+          url: "https://www.github.com/zsrobinson"
+        - name: "instagram"
+          url: "https://www.instagram.com/zsrobinson/"
+        - name: "email"
+          url: "mailto:zachary_robinson@icloud.com"
+
+    assets:
+        favicon: "https://zsrobinson.com/favicon/favicon.ico"
+        favicon16x16: "https://zsrobinson.com/favicon/favicon-16x16.png"
+        favicon32x32: "https://zsrobinson.com/favicon/favicon-32x32.png"
+        apple_touch_icon: "https://zsrobinson.com/favicon/apple-touch-icon.png"
+        # safari_pinned_tab: ""
+
+    defaultTheme: dark
+    # disableThemeToggle: false
+    # ShowShareButtons: true
+    ShowReadingTime: true
+    ShowPostNavLinks: true # next and previous post buttons
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableAnchoredHeadings: true
+
+menu:
+    main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 15
+        - name: Tags
+          url: tags/
+          weight: 10
+        # - name: Categories
+        #   url: categories/
+        #   weight: 10
+
+outputs:
+    home:
+        - HTML
+        - JSON
