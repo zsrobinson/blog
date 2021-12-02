@@ -5,13 +5,13 @@ author: "Zachary Robinson"
 tags: ["linux", "docker"]
 ---
 
-Hi Internet, this is my first blog post about some of the cool things I have recently been experimenting with. I wanted to have a record of some of the things I have done and be able to show it off to others as well. Without further ado, let's get right into it.
+Hi Internet, this is my first blog post about some of the cool things I have recently been experimenting with. I wanted to have a record of the projects I'm doing in my free time, and to be able to show it to others. Without further ado, let's get right into it.
 
 ![Container Ship](https://zsrobinson.com/posts/experimenting-with-linux-and-docker/images/aerial-view-of-cargo-ship-large.jpg)
 
 ## The Origins of this Project
 
-At the beginning of 2021, I got interested in mining cryptocurrency. I wasn't doing it for the money, I just thought that it was cool that I could practically sell my computing power. Using a program called [NiceHash](https://www.nicehash.com/) on my main computer, I mined Ethereum with my AMD Radeon RX 5600 XT in the background.
+At the beginning of 2021, I got interested in mining cryptocurrency. I wasn't doing it for the money, I just thought that it was cool that I could sell my computing power. Using a program called [NiceHash](https://www.nicehash.com/) on my main computer, I mined Ethereum with my AMD Radeon RX 5600 XT in the background.
 
 I realized that we had a spare prebuilt computer that we hadn't used in a few years. We had previously used it as a Family Computer, but as my Dad and I bought our own laptops and I later built a computer, nobody used it anymore. I took it upon myself to find a graphics card on Facebook Marketplace and fix up the old prebuilt. I also had to purchase a new power supply for the computer, as the one it shipped with was not capable of supporting the NVIDIA GeForce GTX 1070.
 
@@ -69,6 +69,6 @@ I didn't run into many hiccups along this way, besides a few minor issues. For e
 
 ## Conclusion
 
-Overall, this whole experience has been a great experience that has allowed me to learn (or at least dip my toes into) many different aspects of the world of IT. This whole process started with me learning about cryptocurrencies and I ended up having to deal with WebSockets. I never would have learned everything that I did with this project if I had just sat down and said "alright I want to learn how to configure remote desktop protocols on Linux today". There's something to be said for learning about tech through *doing*, not just reading.
+Overall, this whole experience has been very beneficial and has allowed me to learn (or at least dip my toes into) many different aspects of the world of IT. This whole process started with me learning about cryptocurrencies and I ended up having to deal with WebSockets. I never would have learned everything that I did with this project if I had just sat down and said "alright I want to learn how to configure remote desktop protocols on Linux today". There's something to be said for learning about tech through *doing*, not just reading.
 
 Dealing with WebSockets made me want to mess around with them even more, and I am thinking about coding a program of some sort that uses them sometime soon. There is still so much more I could do with the setup I have right now, and I'm not planning on stopping experimenting with it anytime soon.
