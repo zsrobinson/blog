@@ -9,7 +9,7 @@ params:
     profileMode:
         enabled: true
         title: "Zachary Robinson" # optional default will be site title
-        subtitle: "A blog about projects I am working on, as well as other content."
+        subtitle: "A blog about projects I am working on and other content."
         imageUrl: "https://www.gravatar.com/avatar/5d85f5b7cfe974125f9f0bf105cf4048?s=150"
         imageTitle: "Profile Picture"
         imageWidth: 150
@@ -41,7 +41,7 @@ params:
     # disableThemeToggle: false
     # ShowShareButtons: true
     ShowReadingTime: true
-    ShowPostNavLinks: true # next and previous post buttons
+    ShowPostNavLinks: false # next and previous post buttons
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     disableAnchoredHeadings: true

@@ -1,13 +1,14 @@
 ---
-title: "Experimenting with Linux and Docker"
+title: "Experimenting With Linux and Docker"
 date: 2021-11-30
 author: "Zachary Robinson"
 tags: ["linux", "docker"]
+draft: false
 ---
 
 Hi Internet, this is my first blog post about some of the cool things I have recently been experimenting with. I wanted to have a record of the projects I'm doing in my free time, and to be able to show it to others. Without further ado, let's get right into it.
 
-![Container Ship](https://zsrobinson.com/posts/experimenting-with-linux-and-docker/images/aerial-view-of-cargo-ship-large.jpg)
+![Container Ship](/posts/experimenting-with-linux-and-docker/images/aerial-view-of-cargo-ship-large.jpg)
 
 ## The Origins of this Project
 
