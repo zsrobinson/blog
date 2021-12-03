@@ -10,7 +10,7 @@ params:
         enabled: true
         title: "Zachary Robinson" # optional default will be site title
         subtitle: "A blog about projects I am working on and other content."
-        imageUrl: "https://www.gravatar.com/avatar/5d85f5b7cfe974125f9f0bf105cf4048?s=150"
+        imageUrl: "/profile-picture/beach-150.jpg"
         imageTitle: "Profile Picture"
         imageWidth: 150
         imageHeight: 150
@@ -31,10 +31,10 @@ params:
           url: "mailto:zachary_robinson@icloud.com"
 
     assets:
-        favicon: "https://zsrobinson.com/favicon/favicon.ico"
-        favicon16x16: "https://zsrobinson.com/favicon/favicon-16x16.png"
-        favicon32x32: "https://zsrobinson.com/favicon/favicon-32x32.png"
-        apple_touch_icon: "https://zsrobinson.com/favicon/apple-touch-icon.png"
+        favicon: "/favicon/favicon.ico"
+        favicon16x16: "/favicon/favicon-16x16.png"
+        favicon32x32: "/favicon/favicon-32x32.png"
+        apple_touch_icon: "/favicon/apple-touch-icon.png"
         # safari_pinned_tab: ""
 
     defaultTheme: dark
