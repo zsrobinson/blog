@@ -34,6 +34,34 @@ The likelihood that either of the Voyager Probes will come in contact with any o
 
 Rather, it serves as a beacon of hope, sent out to the Universe. Hope that our day-to-day lives mean something in the grand scheme of things. Hope that we have made a legacy for ourselves. Hope that there won’t be a day where humanity is forgotten by the cosmos. It’s fun to dream about life from far away encountering a time capsule all about us, but in reality, the Voyager Golden Records tell us much more about ourselves than anything else.
 
+## Works Cited
+
+"Apollo 11 Plaque." *NASA Science: Earth's Moon*, NASA, 20 Oct. 2017, moon.nasa.gov/resources/136/apollo-11-plaque/.
+
+Gambino, Megan. "What Is on Voyager's Golden Record?" *Smithsonian Magazine*, 22 Apr. 2012, www.smithsonianmag.com/science-nature/what-is-on-voyagers-golden-record-73063839.
+
+"The Golden Record." *Jet Propulsion Laboratory*, NASA, voyager.jpl.nasa.gov/golden-record/.
+
+Greicius, Tony. "NASA Spacecraft Embarks on Historic Journey Into Interstellar Space." *NASA*, 12 Sept. 2012, www.nasa.gov/mission_pages/voyager/voyager20130912.html.
+
+McCullough, J.J. "Our failed attempts to teach aliens about Earth." *YouTube*, 15 Jan. 2022, youtube.com/watch?v=M4A2SXGTiso.
+
+"Messages to and from Outer Space." *Library of Congress*, United States Government, www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/messages-to-and-from-outer-space/.
+
+NASA Jet Propulsion Laboratory. *Voyager Golden Record Cover Explanation. Wikimedia Foundation*, commons.wikimedia.org/w/index.php?title=File:Voyager_Golden_Record_Cover_Explanation.svg.
+
+Nevres, Özgür. "How far can Voyager 1 go before we lose contact?" *Our Planet*, 10 Jan. 2019, ourplnt.com/voyager-1-lose-contact/.
+
+Pearlman, Robert Z. "The Untold Story: How One Small Disc Carried One Giant Message for Mankind." *Space*, Future US, 16 Nov. 2007, www.space.com/4655-untold-story-small-disc-carried-giant-message-mankind.html.
+
+"Pioneer Plaque." *NASA Science: Solar System Exploration*, NASA, 13 Feb. 2018, solarsystem.nasa.gov/resources/706/pioneer-plaque/.
+
+Sagan, Carl. *Carl Sagan's Cosmic Connection: An Extraterrestrial Perspective*. Edited by Jerome Agel, Cambridge UP, 2000.
+
+Sagan, Carl, et al. "A Message from Earth." *Science*, vol. 175, no. 4024, 1972, pp. 881-84. JSTOR, www.jstor.org/stable/1733664.
+
+Zapatka, Cory. "Decoding Images from the Golden Record." *The Verge*, Vox Media, 30 Oct. 2018, www.theverge.com/2018/10/30/18037984/golden-record-nasa-image-decode-voyager-1-2.
+
 ---
 
 *This post was adapted from a project for my Honors World History class.*
