@@ -46,3 +46,7 @@ The Internet as we know it today has problems - we all know that. But the right 
 With Facebook announcing its Metaverse, a platform where users strap tiny screens onto their eyes and submerge themselves in an imaginary digital world, there is no doubt that the Internet will only continue to have a stronghold over our lives. However, we still have control over our own destinies. We can choose to move away from services that continuously track our movements on the web. We can choose to limit our use of social media, hence freeing ourselves from the grasp of ever-evolving algorithms used to trap us in our screens. We can choose to favor interaction with other humans in real life, instead of through our devices. 
 
 The Internet has controlled our lives for too long -- it’s time that *we* finally control *it*.
+
+---
+
+*This post was adapted from a project for my AP Lang class.*
