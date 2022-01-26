@@ -2,9 +2,11 @@
 title: "DHCP Spoofing Attacks"
 date: 2022-01-26
 author: "Zachary Robinson"
-tags: []
-draft: true
+tags: ["networking"]
+draft: false
 ---
+
+![Voyager Record Diagram](/posts/dhcp-spoofing-attacks/images/dhcp-spoofing-attack-diagram.jpg)
 
 Dynamic Host Configuration Protocol, or DHCP for short, is one of the most useful protocols for a network admin. For a large network with hundreds or thousands of end-devices, configuring each one manually with an IP Address would be tedious and error prone. DHCP allows admins to define a range of IP Addresses and specify other configuration info for devices to automatically obtain. However, like most protocols, it has a security downfall.
 
