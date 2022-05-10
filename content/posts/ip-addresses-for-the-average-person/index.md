@@ -2,9 +2,11 @@
 title: "IP Addresses for the Average Person"
 date: 2022-05-03
 author: "Zachary Robinson"
-tags: ["internet"]
-draft: true
+tags: ["internet", "networking"]
+draft: false
 ---
+
+![Houses with associated IP Addresses](/posts/ip-addresses-for-the-average-person/images/ip-address-house.png)
 
 If you’ve spent any time on the Internet, you might have heard of an “IP address” before. Maybe you even have a vague idea of what they are, like how every computer on the Internet has one to communicate. My goal is to provide you – an average person – with some clarity as to what IP addresses actually are, why they’re used, and how they affect you. 
 
@@ -20,7 +22,7 @@ Without IP addresses, the computers that forward data across the internet, also 
 
 ![An IPv4 Address in Both Dotted Decimal and Binary Notation](/posts/ip-addresses-for-the-average-person/images/dotted-decimal.jpg)
 
-Time for a few of the more technical details – it's okay if this paragraph flies over your head. An IP address is formatted into four sections of eight bits, called octets, separated by periods. Each bit can hold either a zero or a one, and each octet of eight bits can hold one of 256 different values. Since we start counting at zero, each octet has a range of 0-255. When these four octets are combined, there are 32 bits allowing for almost 4.3 billion IP addresses (with only around 3.7 billion of these addresses actually being able to be routed across the Internet[^1]). It wasn’t a wild assumption that this number of addresses would be enough, with what we now think of as the Internet in 1977 being able to be drawn on a single piece of paper (shown below).
+Time for a few of the more technical details – it's okay if this paragraph flies over your head. An IP address is formatted into four sections of eight bits, called octets, separated by periods. Each bit can hold either a zero or a one, and each octet of eight bits can hold one of 256 different values. Since we start counting at zero, each octet has a range of 0-255. When these four octets are combined, there are 32 bits allowing for almost 4.3 billion IP addresses (with only around 3.7 billion of these addresses actually being able to be routed across the Internet [^1]). It wasn’t a wild assumption that this number of addresses would be enough, with what we now think of as the Internet in 1977 being able to be drawn on a single piece of paper (shown below).
 
 [^1]: There are many reserved address ranges in IPv4. The "3.7 billion" metric is from [this comment](https://stackoverflow.com/a/2437185/15938350) on Stack Overflow. 
 
@@ -28,7 +30,7 @@ Time for a few of the more technical details – it's okay if this paragraph fli
 
 However, the creators of the IPv4 protocol didn’t expect the rapid expansion of the Internet that we’ve seen over the past few decades. In most American households, devices that you wouldn’t typically think of computers even need IP addresses. Everything from kitchen appliances to lightbulbs may have some sort of functionality that requires Internet access. When put into practice, 4.3 billion addresses is nowhere near enough for our interconnected world.
 
-The solution to this problem is IPv6, a newer Internet Protocol standard that has support for 340 undecillion unique addresses, or to put it in perspective, 340 billion billion billion billion addresses. It’s safe to say we won’t need an IPv7 for a long time[^2]. However, the transition from IPv4 to IPv6 is a long one, so we use Network Address Translation (NAT) to overcome the IPv4 address limitation. Put simply, NAT allows for one[^3] “public” IP address to stand in for all the “private” IP addresses of devices on your network. This is usually implemented at your home router, so that only one public IP address has to be allocated. 
+The solution to this problem is IPv6, a newer Internet Protocol standard that has support for 340 undecillion unique addresses, or to put it in perspective, 340 billion billion billion billion addresses. It’s safe to say we won’t need an IPv7 for a long time [^2]. However, the transition from IPv4 to IPv6 is a long one, so we use Network Address Translation (NAT) to overcome the IPv4 address limitation. Put simply, NAT allows for one [^3] “public” IP address to stand in for all the “private” IP addresses of devices on your network. This is usually implemented at your home router, so that only one public IP address has to be allocated. 
 
 [^2]: All jokes aside, IPv7 was a [real proposal](https://datatracker.ietf.org/doc/html/rfc1475) in 1993, but was ultimately obsolete . The same goes for IPv5 and IPv8, as well as IPv9 three different times. But if you have a better idea for an Internet Protocol, feel free to come up with an IPv1, v2, v3, v10, or [above](https://en.wikipedia.org/wiki/List_of_IP_version_numbers).
 
@@ -40,7 +42,7 @@ Before I go any further, let’s review. IP addresses are used to uniquely ident
 
 IP addresses are composed of two sections: the network portion and the host portion. The network portion defines, well, the network that your device is on. All devices on the same network will have the same network portion of their IP address. On the other hand, the host portion is a unique identifier for each device on a network. While the first and last address in a network – also called a “subnet” – are reserved for the network and broadcast address respectively, all other possible values in the host portion of an IP address could be valid devices, also called hosts.
 
-The subnet mask is, in essence, a dividing line. Since different networks have different requirements, this dividing line will be drawn in different places depending on how many devices a network has to support. The network at your workplace might have the line further left to allow for more devices[^4], while your home network might have the line further right due to fewer devices needing addressing. 
+The subnet mask is, in essence, a dividing line. Since different networks have different requirements, this dividing line will be drawn in different places depending on how many devices a network has to support. The network at your workplace might have the line further left to allow for more devices [^4], while your home network might have the line further right due to fewer devices needing addressing. 
 
 [^4]: This is not necessarily true. Business networks often divide their networks into many different subnets to [decrease the broadcast domain](https://networklessons.com/cisco/ccna-routing-switching-icnd1-100-105/broadcast-domain) and to increase flexibility and security.
 
@@ -64,7 +66,7 @@ That’s the last of the technical details, I promise.
 
 You may have heard in the past that IP addresses are a way for companies and organizations to track you. This is a claim that many VPN advertisements like to make, and while it’s certainly not *wrong*, it’s missing a lot of nuance. Sure, if Google sees that two searches are made from the same IP address, then it’s pretty safe to assume that the same user made these searches. But the bigger sign that the same person searched these separate times is the fact that that user is signed into their Google account! Hiding your IP address with a VPN does nothing if you’re still voluntarily associating that new “hidden” IP address with your accounts linked to your identity. Don’t get me wrong, VPNs have their legitimate uses and are absolutely a piece of the puzzle of privacy – but they’re certainly not the be-all and end-all.
 
-As mentioned, IP addresses are only one way out of many that allow for tracking. More sophisticated methods – such as browser fingerprinting, cookies, web beacons, and plain old account tracking – are much more reliable than using IP addresses. In reality, IP addresses do much more good than harm, facilitating the transfer of vast amounts of data online. Without IP Addresses, 167,000,000 TikToks wouldn’t be watched every minute, 12,000,000 iMessages wouldn’t be sent every minute, 5,700,000 searches on Google would go unanswered every minute, and 694,000 hours of YouTube wouldn’t be watched every minute. While we [may be better off](https://zsrobinson.com/posts/the-case-for-slower-internet/) without some of these things, it’s impossible to ignore the impact that the Internet  and by extension, IP addresses – have had on society.
+As mentioned, IP addresses are only one way out of many that allow for tracking. More sophisticated methods – such as browser fingerprinting, cookies, web beacons, and plain old account tracking – are much more reliable than using IP addresses. In reality, IP addresses do much more good than harm, facilitating the transfer of vast amounts of data online. Without IP Addresses, 167,000,000 TikToks wouldn’t be watched every minute, 12,000,000 iMessages wouldn’t be sent every minute, 5,700,000 searches on Google would go unanswered every minute, and 694,000 hours of YouTube wouldn’t be watched every minute [^5]. While we [may be better off](https://zsrobinson.com/posts/the-case-for-slower-internet/) without some of these things, it’s impossible to ignore the impact that the Internet  and by extension, IP addresses – have had on society.
 
 [^5]: These figures are from [Statista](https://www.statista.com/statistics/195140/new-user-generated-content-uploaded-by-users-per-minute/).
 
