@@ -3,6 +3,8 @@ languageCode: en-us
 title: Zachary Robinson
 theme: "PaperMod"
 
+enableRobotsTXT: true
+
 params:
     env: production
 
@@ -45,6 +47,11 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     disableAnchoredHeadings: true
+
+    editPost:
+        URL: "https://github.com/zsrobinson/blog/tree/main/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
 
 menu:
     main:
