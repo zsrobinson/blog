@@ -1,6 +1,6 @@
 ---
 title: "IP Addresses for the Average Person"
-date: 2022-05-03
+date: 2022-05-10
 author: "Zachary Robinson"
 tags: ["internet", "networking"]
 draft: false
