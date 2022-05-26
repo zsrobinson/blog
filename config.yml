@@ -30,7 +30,7 @@ params:
         - name: "instagram"
           url: "https://www.instagram.com/zsrobinson/"
         - name: "email"
-          url: "mailto:zachary_robinson@icloud.com"
+          url: "mailto:contact@zsrobinson.com"
 
     assets:
         favicon: "/favicon/favicon.ico"
