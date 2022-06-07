@@ -12,10 +12,10 @@ params:
         enabled: true
         title: "Zachary Robinson" # optional default will be site title
         # subtitle: "A blog about projects I am working on and other content."
-        imageUrl: "/profile-picture/gravatar256.jpeg"
+        imageUrl: "/profile-picture/gravatar-256.jpg"
         imageTitle: "Profile Picture"
-        imageWidth: 200
-        imageHeight: 200
+        imageWidth: 256
+        imageHeight: 256
         buttons:
             - name: View Blog Posts
               url: "/posts"
