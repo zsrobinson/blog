@@ -8,7 +8,7 @@ draft: false
 
 A few months ago, I made a post outlining some of the things I did with docker on an old desktop computer running Linux on it. While that was more of a high-level overview of the process, this will be a more detailed tutorial of the process of creating your first few Docker containers. 
 
-But first, what is Docker? AWS, a popular cloud service platform, puts it best when it says that:
+But first, what is Docker? [AWS](https://aws.amazon.com/docker/), a popular cloud service platform, puts it best when it says that:
 
 > Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime. Using Docker, you can quickly deploy and scale applications into any environment and know your code will run.
 
