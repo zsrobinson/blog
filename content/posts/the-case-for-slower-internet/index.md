@@ -8,7 +8,6 @@ draft: false
 
 ![Dial-Up Internet](/posts/the-case-for-slower-internet/images/dial-up.jpg)
 
-
 The Internet is the way of the future. We use it for everything: chatting with friends, completing assignments at school, and watching our favorite TV shows at the end of the day. But we don’t typically don’t think of how the Internet has negatively affected our lives because of how ingrained it is in society. How do we fix these issues? Slow down the internet.
 
 Making high-speed internet less accessible to the average American would positively affect society, as it would limit Internet addiction and intrusive tracking technologies while maintaining all the positive aspects of information sharing that have made the Internet so great.
