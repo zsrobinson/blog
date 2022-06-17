@@ -18,13 +18,13 @@ The first method for this revolutionized system of computing is what I’m going
 
 This vision isn’t one of fiction, but rather it’s already here. At CES 2018, Razer introduced [Project Linda](https://www.razer.com/concepts/project-linda), a concept for this type of “plug n’ play” computing. 
 
-![Razer Project Linda](https://geeksnipper.com/wp-content/uploads/2018/01/Razer-Project-Linda-1.jpg)
+![Razer Project Linda](/posts/future-of-computing/images/project-linda.jpg)
 
-This concept presented what Razer called the “best of both worlds”. You could use your Razer Phone on the go just like any other smartphone, but as soon as you needed a laptop form factor, you could slot your phone into where a trackpad would traditionally be. Then, you could use your phone in this larger form factor for uses that benefit from a larger screen and keyboard, such as watching videos and responding to emails.
+This concept (pictured above) presented what Razer called the “best of both worlds”. You could use your Razer Phone on the go just like any other smartphone, but as soon as you needed a laptop form factor, you could slot your phone into where a trackpad would traditionally be. Then, you could use your phone in this larger form factor for uses that benefit from a larger screen and keyboard, such as watching videos and responding to emails.
 
-![Samsung Dex](https://i.ytimg.com/vi/SBXmNPmVf68/maxresdefault.jpg)
+![Samsung Dex](/posts/future-of-computing/images/samsung-dex.jpg)
 
-A similar idea is available on many Samsung phones today, called [Samsung Dex](https://www.samsung.com/us/explore/dex/). This allows you to dock your phone into a little stand, where you can connect up a monitor, keyboard, and mouse for a more comfortable experience.
+A similar idea is available on many Samsung phones today, called [Samsung Dex](https://www.samsung.com/us/explore/dex/) (shown above). This allows you to dock your phone into a little stand, where you can connect up a monitor, keyboard, and mouse for a more comfortable experience.
 
 Similarly, technologies such as Apple CarPlay allows consumers to access the features of their iPhone via the form factor of a car – all without having to put the components of an iPhone within the car itself. Rather, your phone can just be plugged into a compatible car to gain much of the computing power and features of your phone. 
 
@@ -40,9 +40,9 @@ The enterprise world is starting to embrace this method, with many companies opt
 
 What if this concept of thin clients was expanding to personal computing as well? In this method, what used to be your iPhone, iPad, MacBook, or Mac mini could all just be these stripped down devices with the purpose of connecting to a server to harness a greater amount of computing power. If you lose your phone, it’s no problem! Just buy another thin client and log into your account.
 
-![Shadow Cloud Computing](https://shadow.tech/images_rebranding/home/desktop/hero.png)
+![Shadow Cloud Computing](/posts/future-of-computing/images/shadow.png)
 
-[Shadow](https://shadow.tech) is a company that promises something similar to this. They allow you to have access to your own Windows PC in the cloud that you can access from anywhere starting at around $30 per month. Instead of someone purchasing, for example, a gaming computer to play graphically demanding games, they can just use an underpowered thin client to access their cloud computer with much more processing power.
+[Shadow](https://shadow.tech) is a company that promises something similar to this. They allow you to have access to your own Windows PC in the cloud that you can access from anywhere starting at around $30 per month (shown above). Instead of someone purchasing, for example, a gaming computer to play graphically demanding games, they can just use an underpowered thin client to access their cloud computer with much more processing power.
 
 Personally, I’ve set up something similar to this method in my own workflow. I don’t own a laptop to take on the go and work on, for example, programming projects — but I *do* have an iPad Pro. On its own, this device doesn’t really allow me to code. But with a docker container called [code-server](https://hub.docker.com/r/linuxserver/code-server) running on my server at home, I’m able to access an instance of VSCode from anywhere. As long as I’m able to establish a VPN connection to my home network (I don’t want to open port 80 or 443 on my router for security reasons), I’m able to code. And the best part is that I didn’t need any special computer for this; I simply used an old desktop computer and [ran Linux and Docker on it](https://zsrobinson.com/posts/experimenting-with-linux-and-docker/). Otherwise, this computer would just be collecting dust in my basement.
 
@@ -52,7 +52,7 @@ For example, if you bought your thin clients from Microsoft, it’s probable tha
 
 ## The Future of Computing
 
-Do we really want this? A future where we’re locked into a certain company’s cloud computing services? A future where the concept of “plug n’ plug” computing is discarded just because companies can’t squeeze a few extra dollars out of you? The downsides of these shared computing models are great, but if executed successfully, the advantages are massive.
+Do we really want any of this? A future where we’re locked into a certain company’s cloud computing services? A future where the concept of “plug n’ plug” computing is discarded just because companies can’t squeeze a few extra dollars out of you? The downsides of these shared computing models are great, but if executed successfully, the advantages are massive.
 
 As much of the world becomes increasingly environmentally conscious, both of these methods would allow for less ewaste to be produced. Less chips needed to be used in the “plug n’ play” method decreases the impact of devices landing in the landfill. Likewise, if you no longer need cloud computing services from a specific company, this computing power can simply be allocated to another customer.
 
