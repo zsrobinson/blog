@@ -54,7 +54,7 @@ For example, if you bought your thin clients from Microsoft, it’s probable tha
 
 Do we really want any of this? A future where we’re locked into a certain company’s cloud computing services? A future where the concept of “plug n’ plug” computing is discarded just because companies can’t squeeze a few extra dollars out of you? The downsides of these shared computing models are great, but if executed successfully, the advantages are massive.
 
-As much of the world becomes increasingly environmentally conscious, both of these methods would allow for less ewaste to be produced. Less chips needed to be used in the “plug n’ play” method decreases the impact of devices landing in the landfill. Likewise, if you no longer need cloud computing services from a specific company, this computing power can simply be allocated to another customer.
+As much of the world becomes increasingly environmentally conscious, both of these methods would allow for less [e-waste](https://en.wikipedia.org/wiki/Electronic_waste) to be produced. Less chips needed to be used in the “plug n’ play” method decreases the impact of devices landing in the landfill. Likewise, if you no longer need cloud computing services from a specific company, this computing power can simply be allocated to another customer.
 
 Furthermore, the model of cloud computing would allow for consumers to scale up and down their computing resources as their computing needs fluctuate. For instance, a consumer that mainly checks emails and watches Netflix could rent a lower amount of computing power, and then rent more for the day that they have to edit a video for a school project.
 
