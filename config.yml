@@ -9,9 +9,9 @@ params:
     env: production
 
     profileMode:
-        enabled: true
+        enabled: false
         title: "Zachary Robinson" # optional default will be site title
-        # subtitle: "A blog about projects I am working on and other content."
+        subtitle: "Hi, I'm a high school student interested in programming, networking, and cybersecurity."
         imageUrl: "/profile-picture/gravatar-256.jpg"
         imageTitle: "Profile Picture"
         imageWidth: 256
@@ -20,9 +20,9 @@ params:
             - name: View Blog Posts
               url: "/posts"
 
-    # homeInfoParams:
-        # Title: Welcome to my website
-        # Content: A home for my projects
+    homeInfoParams:
+        Title: Zachary Robinson
+        Content: Hi there, my name is Zach. I'm a high school student interested in programming, networking, and cybersecurity. While the Internet as a whole may have moved on from blogging around a decade ago, I still wanted a place to showcase some of my projects and writing.
 
     socialIcons:
         - name: "github"
@@ -55,15 +55,18 @@ params:
 
 menu:
     main:
+        - name: Posts
+          url: posts/
+          weight: 1
         - name: Archive
-          url: archives
+          url: archives/
           weight: 5
-        - name: Search
-          url: search/
-          weight: 15
         - name: Tags
           url: tags/
           weight: 10
+        - name: Search
+          url: search/
+          weight: 15
         # - name: Categories
         #   url: categories/
         #   weight: 10
@@ -72,3 +75,4 @@ outputs:
     home:
         - HTML
         - JSON
+        - RSS
