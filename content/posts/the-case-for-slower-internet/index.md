@@ -1,9 +1,8 @@
 ---
 title: "The Case for Slower Internet"
 date: 2021-12-02
-author: "Zachary Robinson"
-tags: ["argument", "internet"]
-draft: false
+categories: ["Opinions"]
+tags: ["Internet"]
 ---
 
 ![Dial-Up Internet](/posts/the-case-for-slower-internet/images/dial-up.jpg)

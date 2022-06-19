@@ -1,9 +1,8 @@
 ---
 title: "Is the Future of Computing a Future We Want?"
-date: 2022-06-17
-author: "Zachary Robinson"
-tags: ["argument"]
-draft: false
+date: "2022-06-17"
+categories: ["Opinions"]
+tags: ["Computing"]
 ---
 
 In the year 2022, the average technology consumer has many different computing devices. One person, assuming they have the means to afford such devices, may own a Phone, Tablet, Laptop, and Desktop Computer, just to name a few of the devices many use in their daily lives. But as the tech industry is able to fit more computing power into smaller form factors, it raises an interesting dilemma. At what point is the computing power of our phones enough to power our desktop computers?

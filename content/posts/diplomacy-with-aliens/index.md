@@ -1,9 +1,8 @@
 ---
 title: "Diplomacy with Aliens: The Story of the Voyager Golden Records"
 date: 2022-01-23
-author: "Zachary Robinson"
-tags: ["space"]
-draft: false
+categories: ["Explainers"]
+tags: ["Astronomy"]
 ---
 
 ![Voyager 2 Interstellar Blue Poster Cropped](/posts/diplomacy-with-aliens/images/voyager2-interstellar-blue-poster-cropped.jpg)

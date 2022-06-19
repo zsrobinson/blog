@@ -7,6 +7,7 @@ enableRobotsTXT: true
 
 params:
     env: production
+    author: "Zachary Robinson"
 
     profileMode:
         enabled: false
@@ -21,14 +22,12 @@ params:
               url: "/posts"
 
     homeInfoParams:
-        Title: Zachary Robinson
+        Title: Zachary Robinson's Blog
         Content: Hi there, my name is Zach. I'm a high school student interested in programming, networking, and cybersecurity. While the Internet as a whole may have moved on from blogging around a decade ago, I still wanted a place to showcase some of my projects and writing.
 
     socialIcons:
         - name: "github"
           url: "https://www.github.com/zsrobinson"
-        - name: "instagram"
-          url: "https://www.instagram.com/zsrobinson/"
         - name: "email"
           url: "mailto:contact@zsrobinson.com"
 
@@ -58,18 +57,19 @@ menu:
         - name: Posts
           url: posts/
           weight: 1
-        - name: Archive
-          url: archives/
+        - name: Categories
+          url: categories/
           weight: 5
         - name: Tags
           url: tags/
           weight: 10
+        - name: Archive
+          url: archives/
+          weight: 15
         - name: Search
           url: search/
-          weight: 15
-        # - name: Categories
-        #   url: categories/
-        #   weight: 10
+          weight: 20
+        
 
 outputs:
     home:

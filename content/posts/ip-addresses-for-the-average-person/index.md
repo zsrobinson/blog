@@ -1,9 +1,8 @@
 ---
 title: "IP Addresses for the Average Person"
 date: 2022-05-10
-author: "Zachary Robinson"
-tags: ["internet", "networking"]
-draft: false
+categories: ["Explainers"]
+tags: ["Internet", "Networking"]
 ---
 
 ![Houses with associated IP Addresses](/posts/ip-addresses-for-the-average-person/images/ip-address-house.png)

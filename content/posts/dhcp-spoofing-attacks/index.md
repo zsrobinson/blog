@@ -1,9 +1,8 @@
 ---
 title: "DHCP Spoofing Attacks"
-date: 2022-01-26
-author: "Zachary Robinson"
-tags: ["networking"]
-draft: false
+date: "2022-01-26"
+categories: ["Explainers"]
+tags: ["Networking", "Cybersecurity"]
 ---
 
 ![DHCP Spoofing Attack Diagram](/posts/dhcp-spoofing-attacks/images/dhcp-spoofing-attack-diagram.jpg)

@@ -1,9 +1,8 @@
 ---
 title: "Experimenting With Linux and Docker"
 date: 2021-11-30
-author: "Zachary Robinson"
-tags: ["linux", "docker"]
-draft: false
+categories: ["Projects"]
+tags: ["Linux", "Docker", "Homelab"]
 ---
 
 Hi Internet, this is my first blog post about some of the cool things I have recently been experimenting with. I wanted to have a record of the projects I'm doing in my free time, and to be able to show it to others. Without further ado, let's get right into it.
